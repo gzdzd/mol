@@ -1,0 +1,502 @@
+CID: 100072
+SMILES: COC1=CC(=O)C(=CC1=O)C2CC3=C(C=C(C=C3)O)OC2
+Text: The molecule is an isoflavonoid.
+The molecule is a natural product found in Dalbergia candenatensis, Cyclolobium brasiliense, and Dalbergia odorifera with data available.
+==================================================
+CID: 10012374
+SMILES: CCOC(=O)CC(C)(C)C(C)C
+Text: The molecule is a carboxylic ester obtained by the formal condensation of the carboxy group of 3,3,4-trimethylpentanoic acid with ethanol. It has a role as a metabolite.
+==================================================
+CID: 100154
+SMILES: COC1=C(C=C(C=C1)C[C@@H](C2=CC(=C(C(=C2)OC)OC)OC)O)O
+Text: The molecule is one of the first vascular targeting drugs to be tested in patients. This drug was originally isolated from the African Bush Willow. The first studies in patients with this drug were aimed at finding out whether it can be safely given to patients, what side effects it produces and whether it can actually shut down the blood supply to human tumours.
+The molecule is a natural product found in Combretum caffrum and Combretum erythrophyllum with data available.
+==================================================
+CID: 100217
+SMILES: CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC=CC=C45
+Text: The molecule is a monoterpenoid indole alkaloid with formula C19H24N2. It is isolated from the flowering plant genus, Tabernaemontana and exhibits anti-addictive properties. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a plant metabolite and a oneirogen. It is an indole alkaloid fundamental parent, an organic heteropentacyclic compound, a monoterpenoid indole alkaloid and a tertiary amino compound. It is a conjugate base of an ibogamine(1+).
+The molecule is a natural product found in Tabernaemontana citrifolia, Tabernanthe iboga, and other organisms with data available.
+==================================================
+CID: 10027372
+SMILES: CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)NCCC1=CNC2=C1C=C(C=C2)O
+Text: The molecule is an N-acylserotonin obtained by formal condensation of the carboxy group of arachidonic acid with the primary amino group of serotonin. It has a role as a human metabolite, a signalling molecule, an antioxidant, an anti-inflammatory agent, an anticonvulsant, a capsaicin receptor antagonist and an EC 3.5.1.99 (fatty acid amide hydrolase) inhibitor. It is a member of phenols and a N-acylserotonin. It is functionally related to an arachidonic acid.
+==================================================
+CID: 10044646
+SMILES: C/C=C/C=C/C=C/C1=CC2=CC(=O)[C@](C(=O)C2=CO1)(C)OC(=O)C[C@H](C)O
+Text: The molecule is an azaphilone that is 7,8-dihydro-6H-isochromene substituted by a hepta-1,3,5-trien-1-yl group at position 3, a [3-hydroxybutanoyl]oxy group at position 7, a methyl group at position 7 and oxo groups at positions 6 and 8 respectively (the 3S,7S stereoisomer). A fungal metabolite, it is isolated from the fermentation broth of Penicillium solitum strain CT2108 and exhibits inhibitory activity against fatty acid synthase as well as fungicidal activity. It has a role as an antimicrobial agent, an antifungal agent, an EC 2.3.1.85 (fatty acid synthase) inhibitor and a Penicillium metabolite. It is an azaphilone, a carboxylic ester, an enone, a cyclic ether, a member of isochromenes and a secondary alcohol.
+The molecule is a natural product found in Penicillium solitum with data available.
+==================================================
+CID: 100472
+SMILES: C1=CC=C(C=C1)C2=CC=C(C=C2)CC(=O)NC3=CC=CC=N3
+Text: The molecule is a monocarboxylic acid amide obtained by formal condensation of the carboxy group from biphenyl-4-ylacetic acid with the amino group of 2-aminopyridine. Used for treatment of rheumatoid arthritis. It has a role as a non-steroidal anti-inflammatory drug, a non-narcotic analgesic and an antipyretic. It is a monocarboxylic acid amide, a member of pyridines and a member of biphenyls. It is functionally related to a biphenyl-4-ylacetic acid.
+==================================================
+CID: 10054688
+SMILES: CC1=C(C2=C(C(=C1O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)COC(=O)/C=C/C4=CC=C(C=C4)O)O)O)O)C)O[C@@H](CC2=O)C5=C(C=CC(=C5)O)O)O
+Text: The molecule is a flavanone glycoside that is (2S)-flavanone substituted by hydroxy groups at positions 5, 2' and 5', methyl groups at positions 6 and 8 and a (6''-O-p-coumaroyl)-beta-D-glucopyranosyloxy residue at position 7. Isolated from the leaves of Myrcia multiflora, it exhibits inhibitory activity against aldose reductase. It has a role as a metabolite and an EC 1.1.1.21 (aldehyde reductase) inhibitor. It is a beta-D-glucoside, a flavanone glycoside, a monosaccharide derivative, a trihydroxyflavanone and a cinnamate ester. It is functionally related to a trans-4-coumaric acid.
+The molecule is a natural product found in Myrcia multiflora with data available.
+==================================================
+CID: 100615
+SMILES: CC1=CC(=C(C(=C1)OC2=CC(=CC(=C2O)O)C)O)O
+Text: The molecule is an aromatic ether in which the ether functionality links two 2,3-dihydroxy-5-methylphenyl groups. Fungal metabolite isolated inter alia from Aspergillus spp. It has a role as a mycotoxin and a metabolite. It is a member of catechols and an aromatic ether.
+The molecule is a natural product found in Aspergillus austroafricanus, Aspergillus violaceus, and Aspergillus versicolor with data available.
+==================================================
+CID: 10085628
+SMILES: CC(=O)/C=C/[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C
+Text: The molecule is a sesquiterpenoid. It has a role as a metabolite.
+The molecule is a natural product found in Metasequoia glyptostroboides, Juniperus chinensis, and other organisms with data available.
+==================================================
+CID: 10087245
+SMILES: COC1=CC=C(C=C1)CC(C#N)/C(=C/C2=CC=C(C=C2)OC)/C#N
+Text: The molecule is a dinitrile that is butanedinitrile substituted by 4-methoxybenzyl and 4-methoxybenzylidene groups at positions 2 and 3 respectively. Isolated from the culture broth of the fungus Neosartorya fischeri, it exhibits antifungal activity. It has a role as a metabolite and an antifungal agent. It is a monomethoxybenzene and a dinitrile.
+==================================================
+CID: 10114
+SMILES: C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O
+Text: The molecule is a pentacyclic triterpenoid that is olean-12-ene substituted by a hydroxy group at position 3, an oxo group at position 11 and a carboxy group at position 30. It has a role as an immunomodulator and a plant metabolite. It is a pentacyclic triterpenoid, a cyclic terpene ketone and a hydroxy monocarboxylic acid. It is a conjugate acid of a glycyrrhetinate. It derives from a hydride of an oleanane.
+Enoxolone (glycyrrhetic acid) has been investigated for the basic science of Apparent Mineralocorticoid Excess (AME).
+The molecule is a natural product found in Glycyrrhiza, Echinopora lamellosa, and other organisms with data available.
+The molecule is a pentacyclic triterpenoid aglycone metabolite of glycyrrhizin, which is a product of the plant Glycyrrhiza glabra (licorice), with potential expectorant, and gastrokinetic activities.  After administration, enoxolone inhibits the metabolism of prostaglandins by both 15-hydroxyprostaglandin dehydrogenase [NAD(+)] and prostaglandin reductase 2. Therefore, this agent potentiates the activity of prostaglandin E2 and F2alpha, which inhibits gastric secretion while stimulating pancreatic secretion and the secretion of intestinal and respiratory mucus, leading to increased intestinal motility and antitussive effects. Additionally, this agent inhibits 11 beta-hydroxysteroid dehydrogenase and other enzymes involved in the conversion of cortisol to cortisone in the kidneys.
+The molecule is used topically for allergic or infectious skin inflammation and orally for its aldosterone effects in electrolyte regulation.
+==================================================
+CID: 101551464
+SMILES: C[C@@H]([C@@H](/C=C/C=C/C1=C(C(=CC=C1)O)CO)O)O
+Text: The molecule is a hydroxybenzyl alcohol that is pyriculariol in which the aldehyde goup has been reduced to the corresponding alcohol. It has a role as a fungal metabolite. It is a heptaketide, an aromatic primary alcohol, a hydroxybenzyl alcohol, a secondary allylic alcohol and a homoallylic alcohol.
+==================================================
+CID: 101595
+SMILES: CN1CC[C@]23[C@@H]4[C@H]5[C@@H](CC2=O)C(=CCO[C@H]5CC(=O)N4C6=C3C=CC=C6O)C1
+Text: The molecule is a member of carbazoles.
+The molecule is a natural product found in Strychnos icaja, Strychnos wallichiana, and Strychnos nux-vomica with data available.
+==================================================
+CID: 101663489
+SMILES: C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3C[C@@H]([C@](C4)(C(=C)[C@H]5O)O)O)C(=O)O)OC2=O)O
+Text: The molecule is a natural product found in Prunus cerasus, Prunus persica var. nucipersica, and Prunus persica with data available.
+==================================================
+CID: 101740002
+SMILES: C(CCCCCCCC(=O)O)CCCCCCCO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+Text: The molecule is a beta-D-glucoside resulting from the formal condensation of the omega-hydroxy group of 16-hydroxyhexadecanoic acid (16-hydroxypalmitic acid) with beta-D-glucose. It is functionally related to a 16-hydroxyhexadecanoic acid. It is a conjugate acid of a 16-(beta-D-glucopyranosyloxy)hexadecanoate.
+==================================================
+CID: 10176320
+SMILES: C1=C(C(=O)ON1)C[C@@H](C(=O)O)N
+Text: The molecule is a member of the class of isoxazoles that is L-alanine in which one of the methyl hydrogens is replaced by a 5-oxoisoxazolin-4-yl group. It has a role as a plant metabolite. It is a member of isoxazoles, a non-proteinogenic L-alpha-amino acid and a L-alanine derivative. It is a tautomer of a 3-(5-oxoisoxazolin-4-yl)-L-alanine zwitterion.
+==================================================
+CID: 10181133
+SMILES: C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=C[C@H]([C@@]4([C@@]3(CC[C@@H](C4)O)C)O)O)C
+Text: The molecule is an ergostanoid that is (22E)-ergosta-7,22-diene substituted by hydroxy groups at positions 3, 5 and 6 (the 3beta,5alpha,6beta stereoisomer). It has been isolated from the fungus, Xylaria species. It has a role as an Aspergillus metabolite. It is a 3beta-hydroxy steroid, a 5alpha-hydroxy steroid, a 6beta-hydroxy steroid and an ergostanoid.
+The molecule is a natural product found in Aspergillus awamori, Azadirachta indica, and other organisms with data available.
+==================================================
+CID: 10192176
+SMILES: CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)(C)O)C)C)C)CC(C)C)C)C(C)C)CC(C)(C)O)C)C
+Text: The molecule is a cyclosporin A derivative that is cyclosporin A in which residues 4 and 9 (both N-methylleucine) have undergone oxidation so as to introduce a hydroxy group at position 4 (the carbon bearing the two methyl groups) in each case. It has a role as a drug metabolite. It is a cyclosporin A derivative and a tertiary alcohol. It is functionally related to a cyclosporin A metabolite M1.
+==================================================
+CID: 101928901
+SMILES: C/C(=C/CNC1=NC=NC2=C1N(C=N2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)/CO
+Text: The molecule is an N-glycosylzeatin that is cis-zeatin having a beta-D-glucopyranosyl residue attached at position N-7. It has a role as a plant metabolite. It is a glucosyl-N(6)-isopentenyladenine and a N-glycosylzeatin.
+==================================================
+CID: 102054440
+SMILES: C[C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)O[C@@H]2[C@H]([C@H]([C@H](O[C@H]2O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)NC(=O)C)OCCCCCCC=C)CO)CO)O)O[C@@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)NC(=O)C)O)O)O
+Text: The molecule is a glycoside formed between the branched tetrasaccharide alpha-L-Fuc-(1->2)-[alpha-D-GalNAc-(1->3)]-beta-D-Gal-(1->4)-beta-D-GlcNAc and the alkenyl alcohol oct-7-en-1-ol. It contains an alpha-L-Fucp-(1->2)-[alpha-D-GalpNAc-(1->3)]-beta-D-Galp-(1->4)-beta-D-GlcpNAc-yl group. It is functionally related to an oct-7-en-1-ol.
+==================================================
+CID: 102063093
+SMILES: C[C@H]1CC[C@@H]2[C@H]1C(OC=C2C)O
+Text: The molecule is a cyclopentapyran that is (4aR,7aS)-1,4a,5,6,7,7a-hexahydrocyclopenta[c]pyran substituted at position 1 by a hydroxy group and at positions 4 and 7 by methyl groups (the 4aR,7S,7aS)-diastereomer. It has a role as a pheromone and a plant metabolite. It is a cyclopentapyran, an iridoid monoterpenoid and a lactol.
+==================================================
+CID: 10209
+SMILES: CC1=C(C2=CC=CC=C2C(=C1)O)O
+Text: The molecule is a naphthalene-1,4-diol having a methyl substituent at the 2-position. It is a member of naphthalenediols, a member of methylnaphthalenes and a naphthohydroquinone. It is functionally related to a naphthalene-1,4-diol.
+The molecule is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+==================================================
+CID: 10212
+SMILES: CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C
+Text: The molecule is a member of the class of psoralens that is psoralen substituted by a prenyloxy group at position 8. Isolated from Angelica dahurica and Angelica koreana, it acts as a acetylcholinesterase inhibitor. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor and a metabolite.
+The molecule is a natural product found in Allium wallichii, Ammi visnaga, and other organisms with data available.
+The molecule is found in anise. Imperatorin is present in Aegle marmelos (bael fruit) and seeds of Pastinaca sativa (parsnip).Imperatorin is a furocoumarin and a phytochemical that has been isolated from Urena lobata L. (Malvaceae). It is biosynthesized from umbelliferone, a coumarin derivative.
+
+Imperatorin has been shown to exhibit anti-hypertrophic and anti-convulsant functions (A7784, A7785).
+
+Imperatorin belongs to the family of Furanocoumarins. These are polycyclic aromatic compounds containing a furan ring fused to a coumarin moeity.
+==================================================
+CID: 102164179
+SMILES: CC/C=C\C/C=C\C/C=C\C/C=C\C=C\C(=O)CCCC(=O)O
+Text: The molecule is an icosanoid that is (6E,8Z,11Z,14Z,17Z)-icosapentaenoic acid carrying an oxo substituent at position 5. An intermediate of specialised proresolving mediators. It is an enone, an icosanoid, a long-chain fatty acid, an oxo fatty acid and a polyunsaturated fatty acid. It is functionally related to an all-cis-5,8,11,14,17-icosapentaenoic acid. It is a conjugate acid of a (6E,8Z,11Z,14Z,17Z)-5-oxoicosapentaenoate.
+==================================================
+CID: 102212
+SMILES: CO[C@@H]1[C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)CO)O
+Text: The molecule is a methyluridine that consists of uridine bearing a single methyl substituent located at position O-2' on the ribose ring.
+==================================================
+CID: 10225525
+SMILES: C1C[C@H](N(C1)C(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)N)C(=O)O
+Text: The molecule is a tetrapeptide composed of L-serine, L-aspartic acid, L-lysine, and L-proline joined in sequence by peptide linkages. It is functionally related to a L-aspartic acid, a L-lysine, a L-serine and a L-proline.
+==================================================
+CID: 102378704
+SMILES: CC(C)(COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC(=O)CC(C(=O)O)O)O
+Text: The molecule is a 3-hydroxyacyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the 3-carboxy group of 3-carboxy-3-hydroxypropanoic acid. It is an omega-carboxyacyl-CoA and a 3-hydroxyacyl-CoA. It is functionally related to a malic acid. It is a conjugate acid of a 3-carboxy-3-hydroxypropanoyl-CoA(5-).
+==================================================
+CID: 102463
+SMILES: C1CCNC(=O)C(C1)N
+Text: The molecule is an amino acid amide obtained by the intramolecular condensation of the terminal amino group with the carboxy group in lysine. It is a member of caprolactams and an amino acid amide. It is functionally related to an epsilon-caprolactam.
+==================================================
+CID: 102515003
+SMILES: C/C=C(/CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(CC[C@@H]([C@H]4CO)O)C)C)\C(C)C
+Text: The molecule is a 3beta-sterol that is 5alpha-stigmasta-7,24(28)-dien-3beta-ol which is substituted at the 4alpha position by a hydroxymethyl group and in which the 24(28) double bond has Z configuration. It is a 3beta-sterol, a member of phytosterols and a Delta(7)-sterol. It is functionally related to a (Z)-24-ethylidenelophenol.
+==================================================
+CID: 102515391
+SMILES: C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(CC[C@@H]([C@H]4CO)O)C)C
+Text: The molecule is a 3beta-sterol that is 24-methylidenelophenol in which the methyl group at position 4 has been oxidised to the corresponding hydroxymethyl group. It is a 3beta-hydroxy steroid, a 3beta-sterol and a Delta(7)-sterol. It is functionally related to a 24-methylidenelophenol. It derives from a hydride of a stigmastane.
+==================================================
+CID: 10255409
+SMILES: C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)OP(=O)(O)O)N)O)O)N)O)OP(=O)(O)O)O
+Text: The molecule is an amino disaccharide (1,4'-bisphosphorylated glucosamine disaccharide) corresponding to the carbohydrate portion of E. coli J-5 lipid A. It is an amino disaccharide and an oligosaccharide phosphate.
+==================================================
+CID: 102571772
+SMILES: CC/C=C\C/C=C\C=C\[C@@H](C/C=C\C/C=C\CCCCCC(=O)[O-])O
+Text: The molecule is a polyunsaturated fatty acid anion that is the conjugate base of (13R)-hydroxy-(7Z,10Z,14E,16Z,19Z)-docosapentaenoic acid, arising from deprotonation of the carboxylic acid group; major species at pH 7.3. It is an intermediate in 13-series resolvins biosynthesis from DPA (omega-3). It has a role as a human xenobiotic metabolite and a mouse metabolite. It is functionally related to a (7Z,10Z,13Z,16Z,19Z)-docosapentaenoate. It is a conjugate base of a (7Z,10Z,13R,14E,16Z,19Z)-13-hydroxydocosapentaenoic acid.
+==================================================
+CID: 102571775
+SMILES: CCC(/C=C/C=C\C/C=C\C/C=C\C=C\[C@H](CCCC(=O)[O-])OO)O
+Text: The molecule is an icosanoid anion that is the conjugate base of (5S)-hydroperoxy-18-hydroxy-EPE, arising from deprotonation of the carboxylic acid group; major species at pH 7.3. It has a role as a human xenobiotic metabolite. It is a conjugate base of a (5S)-hydroperoxy-18-hydroxy-EPE.
+==================================================
+CID: 102571791
+SMILES: C(CCC(=O)[O-])C/C=C\C[C@H](/C=C/C=C/C=C\[C@H](CCCC(=O)[O-])O)O
+Text: The molecule is a leukotriene anion that is the conjugate base of 20-hydroxy-20-oxoleukotriene B4 arising from deprotonation of the carboxylic acid functions; major species at pH 7.3. It is a dicarboxylic acid dianion and a leukotriene anion. It is a conjugate base of a 20-hydroxy-20-oxoleukotriene B4.
+==================================================
+CID: 10258
+SMILES: C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O
+Text: The molecule is an aryl sulfate that is indoxyl in which the hydroxyl hydrogen is substituted by a sulfo group. It has a role as a human metabolite. It is a member of indoles and an aryl sulfate. It is functionally related to an indoxyl. It is a conjugate acid of an indoxyl sulfate(1-).
+The molecule is a natural product found in Isatis tinctoria, Cissus discolor, and other organisms with data available.
+The molecule is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease.
+The molecule is a dietary protein metabolite, and also the metabolite of the common amino acid tryptophan. Indoxyl sulfate is a circulating uremic toxin stimulating glomerular sclerosis and interstitial fibrosis. Indoxyl sulfate is one of the well known substances of a group of protein-bound uremic retention solutes. Indoxyl sulfate increases the rate of progression of renal failure. In plasma, indoxyl sulfate is a protein-bound uremic solute that induces endothelial dysfunction by inhibiting endothelial proliferation and migration in vitro. Some studies suggest that indoxyl sulfate is also involved in oxidative stress. In hemodialyzed patients, serum levels of indoxyl sulfate are associated with levels of pentosidine, a marker of carbonyl and oxidative stress; in vitro, indoxyl sulfate increases reactive oxygen species (ROS) production in tubular cells, and increases NAD(P)H oxidase activity in endothelial cells. Indoxyl sulfate impairs osteoblst function and induces abnormalities of bone turnover. Indoxyl sulfate strongly decreases the levels of glutathione, one of the most active antioxidant systems of the cell. (A3273, A3274, A3275, A3276).
+The molecule is seen in Hartnup disease from the bacterial degradation of unabsorbed tryptophan.
+==================================================
+CID: 10258498
+SMILES: CC1=C2[C@H]([C@@H]([C@@]3([C@H](C[C@@H]([C@H]([C@H]3[C@@H]([C@@]2(C[C@@H]1O)C(C)(C)O)O)COC(=O)C)OC(=O)C)OC(=O)C)C)OC(=O)C4=CC=CC=C4)O
+Text: The molecule is a taxane diterpenoid isolated from Taxus sumatrana and has been shown to exhibit antineoplastic activity. It has a role as a metabolite and an antineoplastic agent. It is an acetate ester, a secondary alcohol, a benzoate ester, a tertiary alcohol and a taxane diterpenoid.
+The molecule is a natural product found in Taxus wallichiana and Taxus sumatrana with data available.
+==================================================
+CID: 10260120
+SMILES: CCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O)O)[C@@H](/C=C/CCCCCCCCCCCCC)O
+Text: The molecule is a beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1')-N-acylsphingosine in which the acyl group specified is octadecanoyl. It has a role as a mouse metabolite. It is functionally related to an octadecanoic acid.
+==================================================
+CID: 10262598
+SMILES: C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O
+Text: The molecule is an iridoid monoterpenoid that is the methyl ester of 7-deoxyloganetic acid. It has a role as a plant metabolite. It is a cyclopentapyran, an iridoid monoterpenoid, a methyl ester and a lactol. It is functionally related to a 7-deoxyloganetic acid.
+==================================================
+CID: 10269
+SMILES: CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)OC
+Text: The molecule is a member of phenols and a member of methoxybenzenes.
+The molecule is a natural product found in Betula platyphylla var. japonica with data available.
+==================================================
+CID: 10283003
+SMILES: CN\1C2=CC=CC=C2S/C1=C\C3=CC=[N+](C4=CC=CC=C34)CCC[N+](C)(C)C.[I-].[I-]
+Text: The molecule is a C1 cyanine dye having benzothiazolium-2-yl and quinolinium-4-yl substituents. It has a role as a fluorochrome. It is an organic iodide salt and a cyanine dye. It contains a To-Pro-1(2+).
+==================================================
+CID: 10313073
+SMILES: C(C(=O)N)(N)O
+Text: The molecule is the active antiviral metabolite of tri-peptide glycyl-prolyl-glycine-amide (GPG-NH2). αHGA inhibits the replication of HIV-1 in vitro by interfering with the capsid formation. It also has an effect on viral gp160 envelope protein.
+==================================================
+CID: 10319100
+SMILES: C[C@H]1CC2=C(C(=CC(=C2C(=N1)C)OC)OC)C3=C(C4=C(C=CC=C4OC)C=C3C)O
+Text: The molecule is an isoquinoline alkaloid that is (3S)-6,8-dimethoxy-1,3-dimethyl-3,4-dihydroisoquinoline substituted by a 1-hydroxy-8-methoxy-3-methylnaphthalen-2-yl group at position 5. It is isolated from the leaves of Ancistrocladus tanzaniensis and exhibits antiplasmodial, antileishmanial and antitrypanocidal activities. It has a role as a metabolite, an antiplasmodial drug, a trypanocidal drug and an antileishmanial agent. It is an isoquinoline alkaloid, a member of naphthols, a methoxynaphthalene, an aromatic ether, a member of methylnaphthalenes, a biaryl and a member of isoquinolines.Ancistrotanzanine A is a natural product found in Ancistrocladus tanzaniensis with data available.
+==================================================
+CID: 10322912
+SMILES: C[C@H]1C[C@]2([C@H]([C@H]1O)[C@@H]3[C@](O3)(CC[C@H]4[C@H](C4(C)C)/C=C(/C2=O)\CO)C)OC(=O)/C=C/C5=CC=CC=C5
+Text: The molecule is a lathyrane diterpenoid isolated from the roots of Euphorbia micractina. It is an epoxide, a lathyrane diterpenoid and a cinnamate ester.
+==================================================
+CID: 10388861
+SMILES: CC[C@H](C)C(=O)C1=C2C(=C3C(=C1O)C(=CC(=O)O3)[C@H](CC)OC(=O)C)CC(O2)C(C)(C)O
+Text: The molecule is a furanocoumarin, a member of phenols, a tertiary alcohol and an acetate ester. It has a role as a metabolite and an antineoplastic agent.
+==================================================
+CID: 10393333
+SMILES: CC[C@H](C)CC/C=C/C=C(\C)/[C@H](C/C=C/C=C/C(=O)O[C@H]1[C@@H]([C@H](O[C@]2([C@@H]1O)C3=C(CO2)C=C(C=C3O)O)CO)O)O
+Text: The molecule is a papulacandin that is papulacandin A in which the 6-O-acylgalactosyl group is replaced by a hydrogen. It is a carbohydrate-containing antibiotic from the deuteromycetous fungus Papularia sphaerosperma which shows potent antifungal activity against Candida albicans. It has a role as an antifungal agent and a metabolite. It is a papulacandin, a monosaccharide derivative and an organic heterotricyclic compound.
+==================================================
+CID: 10398656
+SMILES: CC1=C[C@H]2[C@@H](CC[C@@]([C@@H]2CC1)(C)O)C(C)C
+Text: The molecule is a cadinane sesquiterpenoid that is cadin-4-ene carrying a hydroxy substituent at position 10. It has a role as a plant metabolite, a fungicide and a volatile oil component. It is a cadinane sesquiterpenoid, a carbobicyclic compound, a tertiary alcohol and a member of octahydronaphthalenes.
+==================================================
+CID: 10402297
+SMILES: C1OC2=C(O1)C=C(C=C2)C3=CC4=C(O3)C=CC(=C4)CCCO
+Text: The molecule is a member of the class of 1-benzofurans that is egonol in which the methoxy group at position 7 is replaced by a hydrogen. It has been isolated from the fruits of Styrax agrestis. It has a role as a metabolite and a plant metabolite. It is a member of 1-benzofurans, a member of benzodioxoles and a primary alcohol. It is functionally related to an egonol. It derives from a hydride of a 1-benzofuran.
+The molecule is a natural product found in Styrax agrestis, Styrax perkinsiae, and other organisms with data available.
+==================================================
+CID: 10416460
+SMILES: CCCCCCCCCC[C@H]([C@H]1CC[C@H](O1)[C@H]2CC[C@@H](O2)[C@@H](CCCCCCCCCC[C@H](CC3=C[C@@H](OC3=O)C)O)O)O
+Text: The molecule is a polyketide isolated from the bark of Asimina triloba. It has been shown to exhibit cytotoxicity in the NCI human tumor cell line screen. It has a role as a plant metabolite and an antineoplastic agent. It is a polyketide, a butenolide and a triol.
+The molecule is a natural product found in Asimina triloba and Eurytides marcellus with data available.
+==================================================
+CID: 10423909
+SMILES: C/C(=C\C(=O)OC)/CC[C@H]1[C@](O1)(C)CC[C@@H]2C(O2)(C)C
+Text: The molecule is a juvenile hormone that is methyl farnesoate in which the 6,7 and 10,11-double bonds have been epoxidised. It has a role as an animal metabolite. It is a juvenile hormone, an epoxide and a fatty acid methyl ester. It is functionally related to a methyl farnesoate.
+==================================================
+CID: 104272
+SMILES: CC(C)CCCCCCCCCCCCCCCCCO
+Text: The molecule is a long-chain primary fatty alcohol that is nonadecan-1-ol substituted by a methyl group at position 18. It derives from a hydride of a nonadecane.
+==================================================
+CID: 10448487
+SMILES: CCCCCCCCCCCCCCCCOC[C@H](CO)O
+Text: The molecule is a 1-n-hexadecyl analogue of an optically active alkylglycerol compound. It is a 1-O-alkyl-sn-glycerol and a 1-O-palmitylglycerol. It is functionally related to a glycerol.
+==================================================
+CID: 10457340
+SMILES: CC[C@H]1CN2CCC3=CC(=C(C=C3[C@@H]2C[C@@H]1C[C@@]4(C5=CC(=C(C=C5CCN4)O)OC)O)OC)O
+Text: The molecule is an isoquinoline alkaloid that is emetan substituted by methoxy groups at positions 7' and 11 and hydroxy groups at positions 1', 6' and 10'. Isolated from Psychotria klugii, it exhibits antileishmanial and antiplasmodial activities. It has a role as a metabolite, an antileishmanial agent and an antiplasmodial drug. It is an isoquinoline alkaloid, a pyridoisoquinoline, an isoquinolinol and a tertiary alcohol. It derives from a hydride of an emetan.
+==================================================
+CID: 10458
+SMILES: C(CCCCCC(=O)O)CCCCCC(=O)O
+Text: The molecule is an alpha,omega-dicarboxylic acid that is undecane substituted by carboxylic acid groups at positions C-1 and C-11. It has a role as a metabolite.
+The molecule is a natural product found in Arabidopsis thaliana and Trypanosoma brucei with data available.
+==================================================
+CID: 10459657
+SMILES: CC(=CCC1=C2C(=CC3=C1O[C@@H](CC3=O)C4=C(C(=CC(=C4O)O)C5=C(C=C(C=C5)O)O)O)C=CC(O2)(C)C)C
+Text: The molecule is an extended flavonoid that consists of (2S)-flavanone substituted by hydroxy groups at positions 2', 3', and 6', a 2,4-dihyroxyphenyl group at position 5', a prenyl group at position 8 and a gem-dimethylpyran ring fused across positions 6 and 7. It has a role as a metabolite. It is a trihydroxyflavanone, an extended flavonoid, a member of resorcinols and a pyranochromane.
+==================================================
+CID: 10462068
+SMILES: C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)COC(=O)C)OCCC4=CC(=C(C=C4)O)O)O)O)O)O
+Text: The molecule is a natural product found in Harpagophytum procumbens, Tecoma stans var. velutina, and Penstemon centranthifolius with data available.
+==================================================
+CID: 104728
+SMILES: [240Pu]
+Text: The molecule is an element with the symbol Pu and atomic number 94. It is a rare transuranic radioactive element that normally exhibits six allotropes and four oxidation states. It is also a radioactive poison that accumulates in bone marrow. Plutonium-240 has a high rate of spontaneous fission, raising the background neutron radiation of plutonium containing it. Plutonium is graded by proportion of Pu-240. Lower grades are less suited for nuclear weapons and thermal reactors but can fuel fast reactors. Pu-240 is not fissile, but is fertile material like U-238. (L1840)
+==================================================
+CID: 10474335
+SMILES: COC1=CC=CC2=C1CCCC2CCCN3CCN(CC3)C4CCCCC4
+Text: The molecule is a member of the class of tetralins that is tetralin that is substituted by 3-(4-cyclohexylpiperazin-1-yl)propyl and methoxy groups at positions 1 and 5, respectively. It is a sigma 2 (sigma2) receptor agonist (Ki = 0.68 nM) and exhibits antineoplastic and anti SARS-CoV-2 activities. It has a role as an anticoronaviral agent, an antineoplastic agent, an apoptosis inducer and a sigma-2 receptor agonist. It is an aromatic ether, a member of piperazines and a member of tetralins.
+==================================================
+CID: 10475
+SMILES: [C-]#N.[Ag+]
+Text: Silver cyanide appears as a white to gray odorless tasteless powder that darkens on exposure to light. Insoluble in water. Toxic by skin absorption through open wounds, ingestion and inhalation of dust. Toxic oxides of nitrogen are produced in fires.
+==================================================
+CID: 10477042
+SMILES: C1=CC(=CC=C1N(CCI)CCI)O
+Text: The molecule is a phenol mustard glutamate prodrug which induces apoptosis by cross-linking DNA and with potential use in Antibody Directed Enzyme Prodrug Therapy (ADEPT). (NCI)
+==================================================
+CID: 1048
+SMILES: C1=CNN=C1
+Text: The molecule is the 1H-tautomer of pyrazole. It is a conjugate base of a pyrazolium. It is a conjugate acid of a pyrazol-1-ide. It is a tautomer of a 3H-pyrazole and a 4H-pyrazole.
+The molecule is a natural product found in Glycyrrhiza glabra with data available.
+The molecule is a heterocyclic organic compound characterized by a ring structure composed of three carbon atoms and two nitrogen atoms in adjacent positions, with the molecular formula C3H4N2.
+==================================================
+CID: 104827
+SMILES: CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.O.O.O.[Cl-]
+Text: Methylene blue trihydrate appears as odorless or almost odorless dark green crystals with bronze luster or dark green crystalline powder. pH (1% solution in water) 3 to 4.5. (NTP, 1992)
+The molecule is a synthetic basic dye. Methylene blue stains to negatively charged cell components like nucleic acids; when administered in the lymphatic bed of a tumor during oncologic surgery, methylene blue may stain lymph nodes draining from the tumor, thereby aiding in the visual localization of tumor sentinel lymph nodes. When administered intravenously in low doses, this agent may convert methemoglobin to hemoglobin.
+The molecule is used as a bacteriologic stain and as an indicator. It inhibits GUANYLATE CYCLASE, and has been used to treat cyanide poisoning and to lower levels of METHEMOGLOBIN.
+==================================================
+CID: 10484577
+SMILES: CC1(C=CC2=C(O1)C=C(C3=C2OC4=C(C3=O)C=CC(=C4O)O[C@H]5[C@@H](OC6=C5C7=C(C(=C6)O)C(=O)C8=C(O7)C(=C(C=C8)O)O)C(C)(C)O)O)C
+Text: The molecule is a member of the class of pyranoxanthones isolated from Hypericum japonicum. It has been found to exhibit inhibitory activity against platelet-activating factor (PAF)-induced hypertension. It has a role as an antineoplastic agent. It is a member of pyranoxanthones and a polyphenol.
+The molecule is a natural product found in Hypericum japonicum with data available.
+==================================================
+CID: 10496361
+SMILES: COC1=C(C=C2/C=C\[C@@H](CCCCC3=CC=C(C=C3)OC1=C2)O)O
+Text: The molecule is a natural product found in Betula platyphylla var. japonica, Betula pendula, and Betula platyphylla with data available.
+==================================================
+CID: 105044
+SMILES: C1C[C@H](N(C1)C(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN=C(N)N)N)C(=O)NCC(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](CO)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)O
+Text: The molecule is an eight-membered oligopeptide comprising Arg, Pro, Pro, Gly, Phe, Ser, Pro and Phe residues joined in sequence. It is an analogue of bradykinin lacking the Arg residue at position 9. It has a role as a bradykinin receptor B2 agonist. It is a conjugate base of a [des-Arg(9)]-bradykinin(1+).
+==================================================
+CID: 10542808
+SMILES: CC1(C=CC2=C(C=CC(=C2O1)C3=CC4=C(O3)C=C(C=C4)O)O)C
+Text: The molecule is a member of benzofurans.
+The molecule is a natural product found in Erythrina herbacea, Erythrina addisoniae, and other organisms with data available.
+==================================================
+CID: 10548300
+SMILES: COC1=C(C2=C(C=C1)C(=O)C(=C(O2)C3=CC(=C(C=C3O)OC)OC)OC)OC
+Text: The molecule is a pentamethoxyflavone that is flavone substituted by methoxy groups at positions 3, 7, 8, 4' and 5' and a hydroxy group at position 2'. It has been isolated from Mimosa diplotricha. It has a role as a plant metabolite. It is a pentamethoxyflavone and a monohydroxyflavone. It is functionally related to a flavone.
+==================================================
+CID: 10577669
+SMILES: CCCCCCC/C=C(\C)/[C@H]([C@@H](C)C(=O)N1CCC[C@H]1C(=O)O[C@H](C(C)C)C(=O)O[C@@H](C)C(=O)O)O
+Text: The molecule is a depsipeptide. It has a role as a metabolite.
+The molecule is a natural product found in Lyngbya majuscula, Schizothrix calcicola, and Oscillatoria margaritifera with data available.
+==================================================
+CID: 10579
+SMILES: CCN1C2=CC=CC=C2SC1=CC=CC=CC3=[N+](C4=CC=CC=C4S3)CC
+Text: The molecule is a highly potent anthelmintic, introduced in 1959 for the treatment of strongyloid worms and whipworms. However, its use is severely limited due to its toxicity. Dithiazanine iodide was associated with eight fatal cases of severe acidosis and shock between 1961 and 1964. Dithiazanine iodide has been withdrawn from the market in countries such as France in Italy, but it may remain available in others.
+The molecule is currently used as a fluorescent dye.
+==================================================
+CID: 10635
+SMILES: C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C
+Text: The molecule is a 17beta-hydroxy steroid that is testosterone in which the 4,5 double bond has been reduced to a single bond with alpha-configuration at position 5. It has a role as an androgen, a human metabolite, a Daphnia magna metabolite and a mouse metabolite. It is a 17beta-hydroxy steroid, a 17beta-hydroxyandrostan-3-one and a 3-oxo-5alpha-steroid. It derives from a hydride of a 5alpha-androstane.
+The molecule is generated by a 5-alpha reduction of testosterone. Unlike testosterone, DHT cannot be aromatized to estradiol therefore DHT is considered a pure androgenic steroid.
+The molecule is a natural product found in Daphnia magna, Aeromonas veronii, and Homo sapiens with data available.
+The molecule is a potent androgenic metabolite of testosterone. Dihydrotestosterone (DHT) is generated by a 5-alpha reduction of testosterone. Unlike testosterone, DHT cannot be aromatized to estradiol therefore DHT is considered a pure androgenic steroid. -- Pubchem; Dihydrotestosterone (DHT) (INN: androstanolone) is a biologically active metabolite of the hormone testosterone, formed primarily in the prostate gland, testes, hair follicles, and adrenal glands by the enzyme 5-alpha-reductase by means of reducing the alpha 4,5 double-bond. Dihydrotestosterone belongs to the class of compounds called androgens, also commonly called androgenic hormones or testoids. DHT is thought to be approximately 30 times more potent than testosterone because of increased affinity to the androgen receptor. -- Wikipedia.
+The molecule is produced by the action of the enzyme 3-OXO-5-ALPHA-STEROID 4-DEHYDROGENASE.
+==================================================
+CID: 10652163
+SMILES: C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2CC[C@@]3([C@H]4CC[C@@]5([C@H](CC[C@@]5([C@@H]4CC[C@@]3(C2)O)O)C6=CC(=O)OC6)C)C)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
+Text: The molecule is a cardenolide glycoside.
+The molecule is a natural product found in Periploca forrestii, Streptocaulon juventas, and Corchorus olitorius with data available.
+==================================================
+CID: 10680
+SMILES: C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2
+Text: The molecule is the simplest member of the class of flavones that consists of 4H-chromen-4-one bearing a phenyl substituent at position 2. It has a role as a metabolite and a nematicide.
+The molecule is a natural product found in Grindelia hirsutula, Asphodeline damascena, and other organisms with data available.
+The molecule is a flavonoid that forms the "backbone" for many other flavonoids, including the citrus flavonoids rutin, hesperidin, naringin and tangeritin. In studies, quercetin is found to be the most active of the flavonoids, and many medicinal plants owe much of their activity to their high quercetin content. Quercetin has demonstrated significant anti-inflammatory activity because of direct inhibition of several initial processes of inflammation. For example, it inhibits both the manufacture and release of histamine and other allergic/inflammatory mediators. In addition, it exerts potent antioxidant activity and vitamin C-sparing action.
+==================================================
+CID: 1071
+SMILES: CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C
+Text: The molecule is a retinoid consisting of 3,7-dimethylnona-2,4,6,8-tetraen-1-ol substituted at position 9 by a 2,6,6-trimethylcyclohex-1-en-1-yl group (geometry of the four exocyclic double bonds is not specified). It has a role as a human metabolite. It is a primary allylic alcohol and a retinoid.
+The molecule is a natural product found in Hippophae rhamnoides, Syzygium cumini, and other organisms with data available.
+==================================================
+CID: 10721542
+SMILES: C/C(=C\C=C\C(=C\1/C(=O)C[C@@H]2[C@@]1(CC[C@@H]3[C@@]2(CC[C@H]([C@]3(C)C(=O)O)OC(=O)C)C)C)\C)/C=C/C(C(C)(C)O)OC
+Text: The molecule is a tricyclic triterpenoid of the isomalabaricane group. It has a role as an antineoplastic agent and a metabolite. It is a tricyclic triterpenoid, an acetate ester, an enone, an ether and an oxo monocarboxylic acid. It is a conjugate acid of a globostellatate C(1-).
+==================================================
+CID: 107720
+SMILES: COC(=O)[C@]12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl
+Text: The molecule is an organochlorine insecticide and a methyl ester. It has a role as a voltage-gated sodium channel blocker.
+The molecule is an oxadiazine pesticide developed by DuPont that acts against lepidopteran larvae. It is marketed under the names Indoxacarb Technical Insecticide, Steward Insecticide and Avaunt Insecticide. It is also used as the active ingredient in DuPont's line of commercial pesticides: Advion and Arilon.
+==================================================
+CID: 10775424
+SMILES: C[C@@H]1CC[C@@H]2[C@@]3([C@H]1CC[C@]3(CC2(C)C)C)O
+Text: The molecule is a sesquiterpenoid consisting of a tricyclic carbon skeleton functionalised by a tertiary hydroxy group. It is a sesquiterpenoid, a tertiary alcohol and an organic tricyclic compound.
+The molecule is a natural product found in Eriophyllum staechadifolium and Duhaldea cuspidata with data available.
+==================================================
+CID: 10786
+SMILES: C(C=O)C(C(CO)O)O
+Text: The molecule is a hydroxyaldehyde that is pentanal carrying three hydroxy substituents at positions 3, 4 and 5. It is a deoxypentose, a hydroxyaldehyde and a triol. It derives from a hydride of a pentanal.
+The molecule is a natural product found in Homo sapiens with data available.
+==================================================
+CID: 108053
+SMILES: C[C@H]([C@@](C(C)C)(C(=O)OCC1=CCN2[C@H]1CCC2)O)O
+Text: The molecule is a member of pyrrolizines.
+The molecule is a natural product found in Eupatorium cannabinum, Chromolaena odorata, and other organisms with data available.
+==================================================
+CID: 108121
+SMILES: C1=CC(=CC2C1O2)Br
+Text: The molecule is an epoxide.
+The molecule is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+==================================================
+CID: 108201
+SMILES: CC(C)(C)NC1=NC(=NC(=N1)N)Cl
+Text: The molecule is a diamino-1,3,5-triazine that is 1,3,5-triazine-2,4-diamine substituted by a tert-butyl group at the amino nitrogen and a chloro group at position 6. It is metabolite of the herbicide terbutylazine. It has a role as a marine xenobiotic metabolite. It is a diamino-1,3,5-triazine and a chloro-1,3,5-triazine.
+==================================================
+CID: 10826328
+SMILES: C1=CC(=CC=C1/C=C\C(=O)NCCCCN=C(N)N)O
+Text: The molecule is a p-coumaroylagmatine in which the double bond of the coumaroyl component has Z-geochemistry. It is functionally related to a cis-4-coumaric acid. It is a conjugate acid of a (Z)-p-coumaroylagmatine(1+).
+The molecule is a natural product found in Albizia julibrissin and Selaginella moellendorffii with data available.
+==================================================
+CID: 10857465
+SMILES: C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CCO3)C)(C)C
+Text: The molecule is a diterpenoid derived from sclareol that is responsible for the odour of ambergris (a solid, waxy, flammable substance produced in the digestive system of sperm whales). It is an organic heterotricyclic compound and a diterpenoid.
+==================================================
+CID: 10886231
+SMILES: CO[C@@H]1[C@H]([C@@H]([C@H](O1)CO[C@@H]2[C@H]([C@@H]([C@H](O2)CO)O[C@@H]3[C@H]([C@@H]([C@H](O3)CO)O)O[C@H]4[C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O
+Text: The molecule is a tetrasaccharide derivative that is a methyl tetraarabinofuranoside corresponding to part of the arabinomannanan portion of the lipoarabinomannan from Mycobacterium tuberculosis. It has a role as an epitope.
+==================================================
+CID: 10888128
+SMILES: CC[C@H](C)/C=C/C=C/C(=O)O
+Text: The molecule is a medium-chain fatty acid.
+The molecule is a natural product found in Paradendryphiella salina with data available.
+==================================================
+CID: 1089
+SMILES: O[Se](=O)(=O)O
+Text: Selenic acid appears as a white crystalline solid. Very corrosive to skin, eyes and mucous membranes. Corrosive to metal. Toxic by skin absorption and by ingestion.
+The molecule is a selenium oxoacid. It is a conjugate acid of a hydrogenselenate.
+The molecule is an organic compound with the chemical formula H2SeO4. It may be found in over-the-counter daily dietary supplements as a source of [DB11135], an essential trace mineral for human health.
+The molecule is a chemical compound of selenium. Selenium is a nonmetal element with the atomic number 34 and the chemical symbol Se. Selenium rarely occurs in its elemental state in nature and is usually found in sulfide ores such as pyrite, partially replacing the sulfur in the ore matrix. It may also be found in silver, copper, lead, and nickel minerals. Though selenium salts are toxic in large amounts, trace amounts of the element are necessary for cellular function in most animals, forming the active center of the enzymes glutathione peroxidase, thioredoxin reductase, and three known deiodinase enzymes. (L620)
+The molecule is the acid form, and inorganic salts of dihydrogen selenium tetraoxide.
+==================================================
+CID: 10892066
+SMILES: C[C@H]1[C@@H](CC(=O)[C@]2([C@@]13C[C@]4(CCC([C@H]4[C@@H]3CC2)(C)C)C)C)O
+Text: The molecule is a diterpenoid with formula C20H32O2. It is isolated from Penicillium cyclopium and exhibits potent conidiation inducing activity. It has a role as a Penicillium metabolite. It is a carbotetracyclic compound, a diterpenoid, a secondary alcohol and a cyclic ketone.
+==================================================
+CID: 10915
+SMILES: CC(=O)O.CC(=O)O.O=[U]=O
+Text: Uranyl acetate appears as yellow crystals with a slight odor of vinegar. Density 2.89 g / cm3.
+The molecule is a chemical compound of uranium. It is used as a negative stain in electron microscopy. Uranium is a chemical element that has the symbol U and atomic number 92. It is a normal part of rocks, soil, air, and water, and occurs in nature in the form of minerals. (L248, L249, L256)
+==================================================
+CID: 10920587
+SMILES: C1=CC=C(C=C1)C(=O)O.N
+Text: The molecule is the threat to the environment. Immediate steps should be taken to limit spread to the environment. Used in medicine and as a food preservative.
+==================================================
+CID: 10925943
+SMILES: C1=CC=C2C(=C1)N(C(=O)[C@H](O2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
+Text: The molecule is a beta-D-glucoside having (R)-2,4-dihydroxy-2H-1,4-benzoxazin-3(4H)-one as the anomeric substituent. It is functionally related to a DIBOA.
+The molecule is a natural product found in Acanthus ebracteatus and Secale cereale with data available.
+==================================================
+CID: 10932172
+SMILES: CCCCCCC(=O)NCC(=O)O
+Text: The molecule is an N-acylglycine with an acyl group that is heptanoyl. It has a role as a metabolite. It is a N-acylglycine and a fatty amide. It is functionally related to a heptanoic acid.
+The molecule is a natural product found in Trypanosoma brucei with data available.
+==================================================
+CID: 10953023
+SMILES: CC(=O)N[C@@H]1[C@H](C[C@](O[C@H]1[C@@H]([C@@H](CO)O[C@@]2(C[C@@H]([C@H]([C@@H](O2)[C@@H]([C@@H](CO)O[C@@]3(C[C@@H]([C@H]([C@@H](O3)[C@@H]([C@@H](CO)O)O)NC(=O)C)O)C(=O)O)O)NC(=O)C)O)C(=O)O)O)(C(=O)O)O)O
+Text: The molecule is alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->8)-Neup5Ac in which the sialyl residue at the reducing end has beta anomeric configuration. It has a role as an epitope.
+==================================================
+CID: 10965465
+SMILES: C1=CC2=C(C=C1O)OC(C(=O)N2O)O
+Text: The molecule is a cyclic hydroxamic acid that consists of 1,4-benzoxazine bearing three hydroxy substituents at positions 2, 4 and 7 as well as an oxo group at position 3. It is a benzoxazine, a cyclic hydroxamic acid and a lactol.
+==================================================
+CID: 10969739
+SMILES: C[C@@H]1[C@H]([C@@H]2C[C@H]3C4=C(CCN3C(=O)C2=CO1)C5=CC=CC=C5N4)C=O
+Text: The molecule is a monoterpenoid indole alkaloid.
+The molecule is a natural product found in Sarcocephalus latifolius with data available.
+==================================================
+CID: 10980660
+SMILES: CC(=O)/C=C/C1=C(C=C(C2=C1O[C@@H](CC2=O)C3=CC=CC=C3)O)OC
+Text: The molecule is a monohydroxyflavanone that is (2S)-flavanone substituted by a hydroxy group at position 5, a methoxy group at position 7 and a (1E)-3-oxobut-1-en-1-yl group at position 8. Isolated from Tephrosia toxicaria, it exhibits anti-cancerous activity. It has a role as a metabolite and an antineoplastic agent. It is a monohydroxyflavanone, a monomethoxyflavanone, a methyl ketone, an enone and an aromatic ketone. It is functionally related to a (2S)-flavanone.
+==================================================
+CID: 10981
+SMILES: [Be+2].CC(=O)[O-].CC(=O)[O-]
+Text: The molecule is a chemical compound of beryllium. Beryllium is a lightweight alkaline earth metal with the atomic number 4. It is a relatively rare element found naturally only combined with other elements in minerals. (L24)
+==================================================
+CID: 10981970
+SMILES: C1=CC=C2C(=C1)C(=C(N2)[C@@H]3[C@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C[C@@H](C(=O)O)N
+Text: The molecule is a C-glycosyl compound that is L-tryptophan in which the hydrogen at position 2 on the indole protion has been replaced by an alpha-mannosyl residue. It is a L-tryptophan derivative and a C-glycosyl compound. It is functionally related to an alpha-D-mannose. It is a tautomer of a 2'-alpha-mannosyl-L-tryptophan zwitterion.
+==================================================
+CID: 10985438
+SMILES: CC(=CC[C@@H](/C=C/C(=C/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H](CCC(C)(C)O)C(C)(C)O)/C)/C)/C)C(C)(C)O)C
+Text: The molecule is a C50 carotenoid that is an intermediate in the biosynthesis of bacterioruberin, a red-coloured pigment found in several Halobacterium and Haloarcula species. It has a role as a bacterial metabolite. It is a C50 carotenoid, a tertiary alcohol and a triol.
+==================================================
+CID: 10999
+SMILES: C(=O)[O-].C(=O)[O-].[Cu+2]
+Text: The molecule is a blue crystalline powder. Sinks and mixes with water. (USCG, 1999)
+The molecule is a chemical compound of copper. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. (L277, L278)
+==================================================
+CID: 10999431
+SMILES: CCCCCCC/C=C/C=C/C(=O)N1CCCC1
+Text: The molecule is a N-acylpyrrolidine. It has a role as a metabolite.
+The molecule is a natural product found in Piper nigrum with data available.
+==================================================
+CID: 11029734
+SMILES: CCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)NC(=O)C)O[C@@]4(C[C@@H]([C@H]([C@@H](O4)[C@@H]([C@@H](CO)O[C@@]5(C[C@@H]([C@H]([C@@H](O5)[C@@H]([C@@H](CO)O)O)NC(=O)C)O)C(=O)O)O)NC(=O)C)O)C(=O)O)O)O)O)[C@@H](/C=C/CCCCCCCCCCCCC)O
+Text: The molecule is a sialotriaosylceramide consisting of the pentasaccharide beta-D-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-D-Gal-(1->4)-beta-D-Glc attached to the primary hydroxy function of a ceramide in which the acyl function on nitrogen is stearoyl. It is a beta-D-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer and a sialotriaosylceramide.
+==================================================
+CID: 11030688
+SMILES: C[C@H]1CC[C@H]2[C@@](O1)(C=CCC2(C)C)C
+Text: The molecule is an organic heterobicyclic compound that is 3,4,4a,5,6,8a-hexahydro-2H-1-benzopyran substituted by methyl groups at positions 2, 5, 5 and 8a respectively. It has a role as a metabolite. It is an organic heterobicyclic compound and an oxacycle.
+==================================================
+CID: 11035822
+SMILES: CC1=CC(=O)[C@H]([C@]2([C@H]1CC(=O)[C@]34[C@@H]2[C@H]([C@H]5[C@]([C@@H]3C(=O)O5)(OC4)C)O)C)O
+Text: The molecule is a quassinoid isolated from Quassia indica and Samadera madagascariensis. It exhibits antimalarial and cytotoxic activities. It has a role as a metabolite, an antimalarial and an antineoplastic agent. It is a quassinoid, an organic heteropentacyclic compound, a cyclic ether, an enone, a bridged compound, a lactone, a secondary alcohol and a secondary alpha-hydroxy ketone.
+The molecule is a natural product found in Samadera indica with data available.
+==================================================
+CID: 11047747
+SMILES: CC(=O)N[C@@H]1[C@H](C=C(O[C@H]1[C@@H]([C@@H](CNC(=O)CCCC(=O)O)O)O)C(=O)O)O
+Text: The molecule is n-Acetylneuraminic acid reduced across the 2,3-bond with loss of the hydroxy group at C-2 and in which the 9-hydroxy group is substituted by a glutaramido group. It has a role as a hapten. It is a member of N-acetylneuraminic acids, a secondary carboxamide and a member of acetamides.
+==================================================
+CID: 11052747
+SMILES: C[C@@H]1CC[C@H]([C@@H]2[C@H]1CCC(=C2)C)C(=C)C
+Text: The molecule is a sesquiterpene and a member of octahydronaphthalenes.
+The molecule is a natural product found in Streptomyces hygrospinosus and Trichoderma with data available.
+==================================================
+CID: 11062802
+SMILES: C[C@@]12CC[C@@H](C1(C)C)C[C@@]2(C)O
+Text: The molecule is an bornane monoterpenoid comprising isoborneol carrying a 2-methyl substituent (the 1R,2R,4R-diastereomer). It is a bornane monoterpenoid and a bridged compound.(1R,2R,4R)-1,2,7,7-tetramethylbicyclo[2.2.1]heptan-2-ol is a natural product found in Lophocolea heterophylla with data available.
+==================================================
+CID: 11066670
+SMILES: CCCCC1=C(C=C2C[C@H](OC(=O)C2=C1O)CC/C=C/C)O
+Text: The molecule is an isochromane that is 3,4-dihydroisocoumarin with a butyl substituent at position 7, hydroxy substituents at positions 6 and 8 and a 3E-pent-3-en-1-yl group at position 3. It is isolated from an endophytic fungus, Geotrichum. It has a role as a metabolite, an antimalarial, an antifungal agent and an antitubercular agent. It is a member of isochromanes and a member of phenols. It is functionally related to a 3,4-dihydroisocoumarin.
+The molecule is a natural product found in Geotrichum with data available.
+==================================================
+CID: 11104835
+SMILES: CC(C)CCCCCCCCC/C=C/C(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)NC(=O)C)C[C@H]([C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O)O)O
+Text: The molecule is a nucleoside that is one of the homologues in the mixture that is tunicamycin, characterised by a 13-methyltetradec-2-enoyl fatty acyl substituent on the amino group of the tunicamine moiety. It has a role as an antimicrobial agent.
+==================================================
+CID: 11149677
+SMILES: C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Cu+2]
+Text: The molecule is a chemical compound of copper. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. (L277, L278)
+==================================================
+CID: 11156438
+SMILES: C1[C@H]([C@@H]([C@H]([C@H]1O)C/C=C\CCCC(=O)OCCCCO[N+](=O)[O-])CC[C@H](CCC2=CC=CC=C2)O)O
+Text: The molecule is the first prostaglandin analog with one of its metabolites being nitric oxide (NO). The novelty of this agent subsequently lies in the proposed dual mechanism of action that stems from both its prostaglandin F2-alpha analog latanoprost acid metabolite and its ability to donate NO for proposed tissue/cell relaxation effects.  In comparison, both latanoprost and latanoprostene bunod contain a latanoprost acid backbone. Conversely however, latanoprostene bunod integrates an NO-donating moiety in lieu of the isopropyl ester typically found in latanoprost.
+==================================================
+
